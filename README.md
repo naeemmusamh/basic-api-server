@@ -8,7 +8,7 @@ we work in new functionality that make for us the test challenge
 
 [github live](https://naeemmusamh.github.io/basic-express-server/)
 
-[The pull repo](https://github.com/naeemmusamh/basic-express-server/pull/1)
+[The pull repo](https://github.com/naeemmusamh/basic-api-server/pull/1)
 
 [Heroku](https://basic-api-server401.herokuapp.com/)
 
@@ -27,4 +27,4 @@ we work in new functionality that make for us the test challenge
 
 # the estimated time
 
-it take from me 3:30 hour to complete it with out the pull request and the upload in Heroku
+it take from me 4:00 hour to complete it and the pull request and the upload in Heroku
