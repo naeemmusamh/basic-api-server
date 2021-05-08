@@ -6,7 +6,7 @@ we work in new functionality that make for us the test challenge
 
 [github](https://github.com/naeemmusamh/basic-api-server)
 
-[github live](https://naeemmusamh.github.io/basic-express-server/)
+[github live](https://naeemmusamh.github.io/basic-api-server/)
 
 [The pull repo](https://github.com/naeemmusamh/basic-api-server/pull/1)
 
