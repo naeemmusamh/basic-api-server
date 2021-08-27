@@ -16,7 +16,7 @@ we work in new functionality that make for us the test challenge
 
 [The pull repo](https://github.com/naeemmusamh/basic-api-server/pull/1)
 
-[Heroku](https://basic-api-server401.herokuapp.com/)
+[Heroku](https://basic-api-server-1.herokuapp.com/)
 
 
 # the reference
